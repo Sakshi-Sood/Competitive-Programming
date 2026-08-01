@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/next-greater-element-i/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Array, Hash Table, Stack, Monotonic Stack
 
 ### 🚀 Performance
 - **Runtime:** 0 ms
-- **Memory:** 12.8 MB
+- **Memory:** 19.4 MB
 
 ---
 
