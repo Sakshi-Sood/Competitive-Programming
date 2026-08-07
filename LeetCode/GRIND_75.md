@@ -80,7 +80,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Group Anagrams
 - [ ] Valid Parentheses
 - [ ] Valid Palindrome
-- [x] [Longest Palindromic Substring](./C++/Medium/5. Longest Palindromic Substring/)
+- [x] [Longest Palindromic Substring](./Python/Medium/5. Longest Palindromic Substring/)
 - [ ] Palindromic Substrings
 - [ ] Encode and Decode Strings
 
