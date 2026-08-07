@@ -1,26 +1,24 @@
 class Solution {
 public:
-
-    void makeCombination(vector<int>& arr, vector<int>& curr, vector<vector<int>>& res, int remSum, int index) {
-        if(remSum == 0) {
+    void combination(vector<int>& candidates, int target, int i, vector<int>& curr, vector<vector<int>>& res) {
+        if(target == 0) {
             res.push_back(curr);
             return;
         }
-        if(remSum < 0 || index >= arr.size()) 
+        if(target < 0 || i >= candidates.size())
             return;
 
-        curr.push_back(arr[index]);
-        makeCombination(arr, curr, res, remSum-arr[index], index);
+        curr.push_back(candidates[i]);
+        combination(candidates, target - candidates[i], i, curr, res);
         curr.pop_back();
-        makeCombination(arr, curr, res, remSum, index+1);
-        
+        combination(candidates, target, i+1, curr, res);
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int> curr;
         vector<vector<int>> res;
-
-        makeCombination(candidates, curr, res, target, 0);
+        vector<int> curr;
+        int i = 0;
+        combination(candidates, target, i, curr, res);
         return res;
     }
 };
