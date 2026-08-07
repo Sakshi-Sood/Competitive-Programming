@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/combination-sum/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Array, Backtracking
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 13.8 MB
+- **Runtime:** 12 ms
+- **Memory:** 19.6 MB
 
 ---
 
