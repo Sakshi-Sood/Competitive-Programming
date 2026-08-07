@@ -1,6 +1,8 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
         n = len(nums)
+        if n == 1:
+            return nums[0]
         mem1 = [-1] * (n)
         mem2 = [-1] * (n)
 
