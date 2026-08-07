@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/longest-consecutive-sequence/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Array, Hash Table, Union-Find
 
 ### 🚀 Performance
-- **Runtime:** 83 ms
-- **Memory:** 88.9 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
