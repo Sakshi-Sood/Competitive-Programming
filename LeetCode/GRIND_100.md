@@ -102,7 +102,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Unique Binary Search Trees
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Best Time to Buy and Sell Stock with Cooldown
-- [x] [Perfect Squares](./C++/Medium/279. Perfect Squares/)
+- [x] [Perfect Squares](./Python/Medium/279. Perfect Squares/)
 - [ ] Maximal Square
 - [ ] Longest Valid Parentheses
 
