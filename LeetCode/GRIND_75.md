@@ -34,7 +34,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
 - [ ] Word Break
-- [x] [Combination Sum](./C++/Medium/39. Combination Sum/)
+- [x] [Combination Sum](./Python/Medium/39. Combination Sum/)
 - [ ] House Robber
 - [x] [House Robber II](./C++/Medium/213. House Robber II/)
 - [ ] Decode Ways
