@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/perfect-squares/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Math, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack
 
 ### 🚀 Performance
-- **Runtime:** 47 ms
-- **Memory:** 13 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
