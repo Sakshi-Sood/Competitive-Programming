@@ -36,7 +36,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Valid Parentheses
 - [ ] Decode String
 - [ ] Valid Palindrome
-- [x] [Longest Palindromic Substring](./Python/Medium/5. Longest Palindromic Substring/)
+- [x] [Longest Palindromic Substring](./C++/Medium/5. Longest Palindromic Substring/)
 - [ ] Palindromic Substrings
 - [ ] Regular Expression Matching
 - [ ] Letter Combinations of a Phone Number
