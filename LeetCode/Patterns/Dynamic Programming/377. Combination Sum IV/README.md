@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/combination-sum-iv/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Array, Dynamic Programming
 
 ### 🚀 Performance
-- **Runtime:** 3 ms
-- **Memory:** 9.1 MB
+- **Runtime:** 54 ms
+- **Memory:** 20.4 MB
 
 ---
 
