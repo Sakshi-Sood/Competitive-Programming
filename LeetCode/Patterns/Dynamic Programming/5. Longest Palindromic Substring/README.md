@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/longest-palindromic-substring/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Two Pointers, String, Dynamic Programming, Manacher
 
 ### 🚀 Performance
-- **Runtime:** 175 ms
-- **Memory:** 26.1 MB
+- **Runtime:** 1594 ms
+- **Memory:** 26.9 MB
 
 ---
 
