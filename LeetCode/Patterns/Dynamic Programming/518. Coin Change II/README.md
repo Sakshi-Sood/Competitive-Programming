@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/coin-change-ii/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Array, Dynamic Programming, Knapsack Problem, Complete Knapsack
 
 ### 🚀 Performance
-- **Runtime:** 35 ms
-- **Memory:** 36.7 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
