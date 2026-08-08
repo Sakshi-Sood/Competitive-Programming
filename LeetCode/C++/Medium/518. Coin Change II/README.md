@@ -8,8 +8,8 @@
 Array, Dynamic Programming, Knapsack Problem, Complete Knapsack
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 51 ms
+- **Memory:** 37 MB
 
 ---
 
